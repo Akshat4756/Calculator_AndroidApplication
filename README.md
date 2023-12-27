@@ -1,10 +1,8 @@
-### Hi there 👋, my name is Akshat Dwivedo
+### Hi there 👋, my name is Akshat Dwivedi
 #### I am a Dot Net Developer
 ![I am a Dot Net Developer]
-![v1-banner-336x280 1703710890-658c90aa29b29](https://github.com/Akshat4756/Calculator_AndroidApplication/assets/100028672/484c5478-f249-4044-851c-ec6d3185f223)
+![v1-banner-160x600 1703710890-658c90aa29b29](https://github.com/Akshat4756/Calculator_AndroidApplication/assets/100028672/531ceb4b-ddab-46ec-9641-d8789099a6d3)
 
-
-Hi , i am Akshat Dwivedi from Ayodhya India
 
 Skills: .Net/ JS/ React.js/ SQL server / mySql
 
