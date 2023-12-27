@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Akshat Dwivedo
 #### I am a Dot Net Developer
-![I am a Dot Net Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Dot Net Developer]
+![v1-banner-336x280 1703710890-658c90aa29b29](https://github.com/Akshat4756/Calculator_AndroidApplication/assets/100028672/484c5478-f249-4044-851c-ec6d3185f223)
+
 
 Hi , i am Akshat Dwivedi from Ayodhya India
 
